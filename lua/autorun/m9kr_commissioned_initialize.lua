@@ -7,4 +7,5 @@ if CLIENT then
 	killicon.Add("m9kr_scar175","vgui/hud/m9kr_scar175")
 	killicon.Add("m9kr_mx4storm","vgui/hud/m9kr_mx4storm")
 	killicon.Add("m9kr_mcxspear","vgui/hud/m9kr_mcxspear")
+	killicon.Add("m9kr_mcxspear_s","vgui/hud/m9kr_mcxspear_s")
 end

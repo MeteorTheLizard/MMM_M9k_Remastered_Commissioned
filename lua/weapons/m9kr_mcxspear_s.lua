@@ -2,7 +2,7 @@ if not MMM_M9k_IsBaseInstalled then return end -- Make sure the base is installe
 
 SWEP.Base = "bobs_gun_base"
 SWEP.Category = "M9kR: Commissioned"
-SWEP.PrintName = "SIG MCX Spear"
+SWEP.PrintName = "SIG MCX Spear S"
 
 SWEP.Slot = 2
 SWEP.HoldType = "ar2"
@@ -10,7 +10,7 @@ SWEP.Spawnable = true
 
 SWEP.ViewModelFOV = 80
 SWEP.ViewModel = "models/m9kr-commissioned-mcxspear/v_rif_m4a1.mdl"
-SWEP.WorldModel = "models/m9kr-commissioned-mcxspear/w_rif_m4a1.mdl"
+SWEP.WorldModel = "models/m9kr-commissioned-mcxspear/w_rif_m4a1_silencer.mdl"
 
 SWEP.tReloadDynamic = {
 	{
@@ -46,7 +46,8 @@ SWEP.tDrawSoundSequence = {
 	}
 }
 
-SWEP.Primary.Sound = "weapons/m9kr-commissioned-mcxspear/fire1.wav"
+SWEP.Primary.Sound = "weapons/m9kr-commissioned-mcxspear/fire_s1.wav"
+SWEP.Primary.SoundVolume = 65 -- Silenced!
 
 SWEP.Primary.RPM = 700
 SWEP.Primary.ClipSize = 40
@@ -61,6 +62,12 @@ SWEP.Primary.Ammo = "ar2"
 
 SWEP.IronSightsPos = Vector(6.9,0,1.2)
 SWEP.IronSightsAng = Vector(0,0.5,-0.75)
+
+
+SWEP.iIdleAnim = ACT_VM_IDLE_SILENCED
+SWEP.iDeployAnim = ACT_VM_DRAW_SILENCED
+SWEP.iPrimaryAnim = ACT_VM_PRIMARYATTACK_SILENCED
+SWEP.iReloadAnim = ACT_VM_RELOAD_SILENCED
 
 
 -- Fix world-model position
