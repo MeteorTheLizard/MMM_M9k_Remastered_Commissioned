@@ -1,0 +1,9 @@
+//"UnlitGeneric"
+Vertexlitgeneric
+{
+	"$basetexture"	"models\weapons\v_models\mcx\Sight Lens"
+	"$model" 		"1"
+	"$additive"	"1"
+	"$selfillum" "1"
+	"$selfillummask" "models\weapons\v_models\mcx\Sight Lens_E"
+}
