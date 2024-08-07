@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\MarkTwenty\Eotech_Lens"
+	"$bumpmap" "models\weapons\v_models\MarkTwenty\Eotech_Lens_norm"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.01 0.01 0.01]"
+	"$normalmapalphaphongmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "1.5"
+	"$phongtint"		"[0.7 0.9 1]"
+    	"$phongfresnelranges"        "[0.2 0.4 1.0]" 
+}

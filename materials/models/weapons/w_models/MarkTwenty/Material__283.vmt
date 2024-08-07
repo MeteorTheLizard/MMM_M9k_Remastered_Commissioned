@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\MarkTwenty\lam_diff"
+	"$bumpmap" "models\weapons\v_models\MarkTwenty\lam_normal"
+
+	"$phong"     "1"
+	"$phongboost"   "0.8"
+	"$phongexponent"   "25"
+	"$phongfresnelranges"   "[0.48 2 2.5]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "100"	
+	"$rimlightboost" "0.25"
+}
+

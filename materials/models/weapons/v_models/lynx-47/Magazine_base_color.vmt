@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		 "models\weapons\v_models\lynx-47\Magazine"
+	"$bumpmap"     		"models\weapons\v_models\lynx-47\Magazine_Normal"
+	"$phongexponenttexture" 	"models\weapons\v_models\lynx-47\Magazine_Roughness"
+
+	$phong                      	1
+	$phongboost                 	0.02
+
+	$phongfresnelranges         	"[50 50 20]"
+	$phongalbedotint		1
+	$phongalbedoboost 		1
+	$normalmapalphaphongmask    	1
+
+}

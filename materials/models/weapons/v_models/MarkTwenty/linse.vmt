@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\MarkTwenty\lens"
+                "$bumpmap" "models\weapons\v_models\MarkTwenty\lens_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"  "1"
+                "$envmaptint" "[0.8 0.5 0.2]"
+                "$additive" "1" 
+                "$translucent" "1"
+                "$surfaceprop" "glass"
+}
+
+

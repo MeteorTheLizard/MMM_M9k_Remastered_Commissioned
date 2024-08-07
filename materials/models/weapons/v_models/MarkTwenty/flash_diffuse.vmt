@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\MarkTwenty\flash_diffuse"
+	"$bumpmap" "models/weapons/v_models/MarkTwenty\flash_normal"
+
+	"$phong"     "1"
+	"$phongboost"   "0.3"
+	"$phongexponent"   "25"
+	"$phongfresnelranges"   "[0.48 2 2.5]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "100"	
+	"$rimlightboost" "0.25"
+
+}
+
