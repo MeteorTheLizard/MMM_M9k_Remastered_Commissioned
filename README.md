@@ -34,6 +34,7 @@ Beretta MX4 Storm | https://gamebanana.com/mods/399743 | Anonymous
 Lynx-47 | https://gamebanana.com/mods/425009 | Anonymous
 SCAR-175 | https://gamebanana.com/mods/210500 | Anonymous
 SIG MCX Spear | https://gamebanana.com/mods/449573 | Anonymous
+SIG MCX Spear S | https://gamebanana.com/mods/449573 | Anonymous
 
 # Credits
 
