@@ -1,0 +1,8 @@
+"Vertexlitgeneric"
+{
+    "$additive"                     "1"
+
+    "$baseTexture"                  "models\weapons\v_models\Requests\EdgeStylez's Remington 590\r590_sight"
+
+    "$selfillum"                    "1"
+}
