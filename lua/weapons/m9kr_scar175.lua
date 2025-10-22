@@ -129,3 +129,6 @@ function SWEP:DrawWorldModel()
 	self.WorldEnt:EnableMatrix("RenderMultiply",self.WorldMatrix)
 	self.WorldEnt:DrawModel()
 end
+
+function SWEP:DoDrawCrosshair()
+end
